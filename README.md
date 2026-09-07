@@ -8,4 +8,4 @@ The code will be published after sorting out.
 
 
 # Acknowledgement
-Our code is based on [Cyclegan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+Our code is based on [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
